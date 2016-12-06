@@ -1,6 +1,5 @@
 #importing classes to read the files and other operations
 import sys
-import collections
 import time
 
 
